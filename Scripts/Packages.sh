@@ -38,7 +38,9 @@ fi
 #UPDATE_PACKAGE "包名" "项目地址" "项目分支" "pkg/name，可选，pkg为从大杂烩中单独提取包名插件；name为重命名为包名"
 UPDATE_PACKAGE "argon" "jerrykuku/luci-theme-argon" "master"
 UPDATE_PACKAGE "kucat" "sirpdboy/luci-theme-kucat" "js"
-
+#cf
+UPDATE_PACKAGE "luci-app-cloudflarespeedtest" "mingxiaoyu/luci-app-cloudflarespeedtest" "main"
+UPDATE_PACKAGE "openwrt-cdnspeedtest" "immortalwrt-collections/openwrt-cdnspeedtest" "master"
 
 #UPDATE_PACKAGE "nekoclash" "Thaolga/luci-app-nekoclash" "main"
 UPDATE_PACKAGE "openclash" "vernesong/OpenClash" "dev" "pkg"
