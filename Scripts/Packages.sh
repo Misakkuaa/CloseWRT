@@ -64,7 +64,7 @@ UPDATE_PACKAGE "luci-app-tinyfilemanager" "muink/luci-app-tinyfilemanager" "mast
 UPDATE_PACKAGE "luci-app-adguardhome" "chenmozhijin/luci-app-adguardhome" "master"
 UPDATE_PACKAGE "luci-app-lucky" "gdy666/luci-app-lucky" "main"
 UPDATE_PACKAGE "netspeedtest" "sirpdboy/netspeedtest" "master"
-UPDATE_PACKAGE "luci-app-chatgpt-web" "sirpdboy/luci-app-chatgpt-web" "main"
+UPDATE_PACKAGE "luci-app-chatgpt" "sirpdboy/luci-app-chatgpt-web" "main"
 
 UPDATE_PACKAGE "luci-app-tailscale" "asvow/luci-app-tailscale" "main"
 UPDATE_PACKAGE "luci-app-wechatpush" "tty228/luci-app-wechatpush" "master"
