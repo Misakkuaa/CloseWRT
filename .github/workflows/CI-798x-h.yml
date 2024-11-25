@@ -18,7 +18,7 @@ on:
         options: [immortalwrt, NekokeCore, lgs2007m]
       USB_EMMC:
         description: '普通/USB/EMMC机型'
-        default: 'xr30-emmc'
+        default: 'sl3000_emmc'
         required: true
         type: choice
         options: [off_false, xr30, xr30-emmc, sl3000_emmc]
